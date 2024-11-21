@@ -1,0 +1,353 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "admin@gmail.com",
+      "password": "password123",
+      "createdAt": "2024-11-18T10:00:00Z",
+      "updatedAt": "2024-11-18T10:00:00Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "PSabun Mandi",
+      "price": 100000,
+      "category": "sabun",
+      "description": "Sabun mandi yang lembut dan menyegarkan.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 10,
+      "createdAt": "2024-11-18T12:00:00Z",
+      "updatedAt": "2024-11-18T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Shampoo Herbal",
+      "price": 75000,
+      "category": "shampoo",
+      "description": "Shampoo dengan ekstrak herbal untuk rambut sehat.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 15,
+      "createdAt": "2024-11-18T12:05:00Z",
+      "updatedAt": "2024-11-18T12:05:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Sabun Cuci Tangan",
+      "price": 30000,
+      "category": "sabun",
+      "description": "Sabun cuci tangan dengan antibakteri.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 20,
+      "createdAt": "2024-11-18T12:10:00Z",
+      "updatedAt": "2024-11-18T12:10:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Mie Instan",
+      "price": 10000,
+      "category": "makanan",
+      "description": "Mie instan dengan rasa pedas.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 50,
+      "createdAt": "2024-11-18T12:15:00Z",
+      "updatedAt": "2024-11-18T12:15:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Kecap Manis",
+      "price": 25000,
+      "category": "makanan",
+      "description": "Kecap manis dengan rasa yang pas untuk berbagai masakan.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 30,
+      "createdAt": "2024-11-18T12:20:00Z",
+      "updatedAt": "2024-11-18T12:20:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Shampoo Anti Ketombe",
+      "price": 90000,
+      "category": "shampoo",
+      "description": "Shampoo untuk mengatasi ketombe dengan formula khusus.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 12,
+      "createdAt": "2024-11-18T12:25:00Z",
+      "updatedAt": "2024-11-18T12:25:00Z"
+    },
+    {
+      "id": "7",
+      "name": "Sabun Mandi Cair",
+      "price": 40000,
+      "category": "sabun",
+      "description": "Sabun mandi cair dengan aroma floral yang menyegarkan.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 25,
+      "createdAt": "2024-11-18T12:30:00Z",
+      "updatedAt": "2024-11-18T12:30:00Z"
+    },
+    {
+      "id": "8",
+      "name": "Lotions",
+      "price": 40000,
+      "category": "kosmetik",
+      "description": "Sabun mandi cair dengan aroma floral yang menyegarkan.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 25,
+      "createdAt": "2024-11-18T12:30:00Z",
+      "updatedAt": "2024-11-18T12:30:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Deodoran Roll-On",
+      "price": 25000,
+      "category": "kosmetik",
+      "description": "Deodoran roll-on yang memberikan perlindungan sepanjang hari.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 40,
+      "createdAt": "2024-11-18T12:35:00Z",
+      "updatedAt": "2024-11-18T12:35:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Sabun Mandi Batangan",
+      "price": 20000,
+      "category": "sabun",
+      "description": "Sabun mandi batangan dengan wangi segar dan alami.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 15,
+      "createdAt": "2024-11-18T12:40:00Z",
+      "updatedAt": "2024-11-18T12:40:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Pasta Gigi",
+      "price": 15000,
+      "category": "kosmetik",
+      "description": "Pasta gigi dengan formula untuk gigi sehat dan segar.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 60,
+      "createdAt": "2024-11-18T12:45:00Z",
+      "updatedAt": "2024-11-18T12:45:00Z"
+    },
+    {
+      "id": "12",
+      "name": "Teh Hijau",
+      "price": 22000,
+      "category": "minuman",
+      "description": "Teh hijau untuk kesehatan tubuh.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 18,
+      "createdAt": "2024-11-18T12:50:00Z",
+      "updatedAt": "2024-11-18T12:50:00Z"
+    },
+    {
+      "id": "13",
+      "name": "Kopi Arabika",
+      "price": 35000,
+      "category": "minuman",
+      "description": "Kopi Arabika dengan rasa yang kuat dan kaya.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 22,
+      "createdAt": "2024-11-18T12:55:00Z",
+      "updatedAt": "2024-11-18T12:55:00Z"
+    },
+    {
+      "id": "14",
+      "name": "Coklat Batangan",
+      "price": 12000,
+      "category": "makanan",
+      "description": "Coklat batangan dengan rasa manis dan creamy.",
+      "image": "https://i.ibb.co/yNgzghD/IMG-1488.jpg",
+      "qty": 5,
+      "createdAt": "2024-11-18T13:00:00Z",
+      "updatedAt": "2024-11-20T01:37:33.950Z"
+    },
+    {
+      "id": "15",
+      "name": "Susu Sapi Full Cream",
+      "price": 12000,
+      "category": "minuman",
+      "description": "Susu sapi full cream yang kaya rasa dan bergizi.",
+      "image": "https://via.placeholder.com/150",
+      "qty": 30,
+      "createdAt": "2024-11-18T13:05:00Z",
+      "updatedAt": "2024-11-19T23:57:59.756Z"
+    },
+    {
+      "id": "1731998074459",
+      "name": "Sardens",
+      "price": 20000,
+      "qty": 5,
+      "category": "makanan",
+      "description": "Sardens adalah makanan yang paling enak",
+      "image": "https://i.ibb.co/r6H6wLf/logo.jpg",
+      "createdAt": "2024-11-19T06:34:34.459Z",
+      "updatedAt": "2024-11-19T09:56:43.028Z"
+    },
+    {
+      "id": "1731998535496",
+      "name": "Coklat",
+      "price": 1000,
+      "qty": 5,
+      "category": "makanan",
+      "description": "Coklat untuk makan bayi",
+      "image": "https://i.ibb.co/W2nvRkL/40a9f490-6ffd-44ea-af55-f724a6118823.jpg",
+      "createdAt": "2024-11-19T06:42:15.496Z",
+      "updatedAt": "2024-11-19T09:50:49.697Z"
+    },
+    {
+      "id": "1732006820661",
+      "name": "Beras",
+      "price": 300000,
+      "qty": 10,
+      "category": "makanan",
+      "description": "Beras Bulog",
+      "image": "https://i.ibb.co/C6C3msr/DALL-E-2024-10-29-14-31-55-An-elegant-minimalistic-personal-branding-logo-for-Ade-Wicaksono-a-full-s.webp",
+      "createdAt": "2024-11-19T09:00:20.661Z",
+      "updatedAt": "2024-11-21T00:46:06.332Z"
+    },
+    {
+      "id": "1732149924819",
+      "name": "Parfum Loundry coklat",
+      "price": 15000,
+      "qty": 20,
+      "category": "loundry",
+      "description": "Parfum loundry yang sangat harum",
+      "image": "https://i.ibb.co/jgDTcW9/7df62c8d-b77f-4b87-a120-66e01333e24b.jpg",
+      "createdAt": "2024-11-21T00:45:24.819Z",
+      "updatedAt": "2024-11-21T00:47:08.666Z"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "sabun",
+      "createdAt": "2024-11-18T12:00:00Z",
+      "updatedAt": "2024-11-18T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "shampoo",
+      "createdAt": "2024-11-18T12:05:00Z",
+      "updatedAt": "2024-11-18T12:05:00Z"
+    },
+    {
+      "id": "3",
+      "name": "makanan",
+      "createdAt": "2024-11-18T12:10:00Z",
+      "updatedAt": "2024-11-18T12:10:00Z"
+    },
+    {
+      "id": "4",
+      "name": "kosmetik",
+      "createdAt": "2024-11-18T12:15:00Z",
+      "updatedAt": "2024-11-18T12:15:00Z"
+    },
+    {
+      "id": "6",
+      "name": "minuman",
+      "createdAt": "2024-11-18T12:20:00Z",
+      "updatedAt": "2024-11-19T23:57:59.756Z"
+    },
+    {
+      "id": "1732149861233",
+      "name": "loundry",
+      "createdAt": "2024-11-21T00:44:21.234Z",
+      "updatedAt": "2024-11-21T00:44:21.234Z"
+    }
+  ],
+  "report": [
+    {
+      "id": "1732006820661",
+      "productId": "1732006820661",
+      "categoryId": "3",
+      "qty": 10,
+      "total_price": 3000000,
+      "type": "in",
+      "createdAt": "2024-11-19T09:00:20.661Z",
+      "updatedAt": "2024-11-19T09:00:20.661Z"
+    },
+    {
+      "id": "1732009849697",
+      "productId": "1731998535496",
+      "categoryId": "3",
+      "qty": 6,
+      "total_price": 6000,
+      "type": "out",
+      "createdAt": "2024-11-19T09:50:49.697Z",
+      "updatedAt": "2024-11-19T09:50:49.697Z"
+    },
+    {
+      "id": "1732010366869",
+      "productId": "1732006820661",
+      "categoryId": "3",
+      "qty": 5,
+      "total_price": 1500000,
+      "type": "out",
+      "createdAt": "2024-11-19T09:59:26.869Z",
+      "updatedAt": "2024-11-19T09:59:26.869Z"
+    },
+    {
+      "id": "1732010637131",
+      "productId": "15",
+      "categoryId": "6",
+      "qty": 15,
+      "total_price": 180000,
+      "type": "out",
+      "createdAt": "2024-11-19T10:03:57.131Z",
+      "updatedAt": "2024-11-19T10:03:57.131Z"
+    },
+    {
+      "id": "1732066653950",
+      "productId": "14",
+      "categoryId": "3",
+      "qty": 30,
+      "total_price": 360000,
+      "type": "out",
+      "createdAt": "2024-11-20T01:37:33.950Z",
+      "updatedAt": "2024-11-20T01:37:33.950Z"
+    },
+    {
+      "id": "1732149924819",
+      "productId": "1732149924819",
+      "categoryId": "1732149861233",
+      "qty": 20,
+      "total_price": 300000,
+      "type": "in",
+      "createdAt": "2024-11-21T00:45:24.819Z",
+      "updatedAt": "2024-11-21T00:45:24.819Z"
+    },
+    {
+      "id": "1732149966332",
+      "productId": "1732006820661",
+      "categoryId": "3",
+      "qty": 5,
+      "total_price": 1500000,
+      "type": "in",
+      "createdAt": "2024-11-21T00:46:06.332Z",
+      "updatedAt": "2024-11-21T00:46:06.332Z"
+    },
+    {
+      "id": "1732149966332",
+      "productId": "1732006820661",
+      "categoryId": "3",
+      "qty": 5,
+      "total_price": 1500000,
+      "type": "in",
+      "createdAt": "2024-11-21T00:46:06.332Z",
+      "updatedAt": "2024-11-21T00:46:06.332Z"
+    },
+    {
+      "id": "1732149966332",
+      "productId": "1732006820661",
+      "categoryId": "3",
+      "qty": 5,
+      "total_price": 1500000,
+      "type": "out",
+      "createdAt": "2024-11-21T00:46:06.332Z",
+      "updatedAt": "2024-11-21T00:46:06.332Z"
+    }
+  ]
+}
