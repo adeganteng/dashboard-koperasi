@@ -4,10 +4,10 @@ import LoginPage from "./pages/LoginPage";
 import DashboardPage from "./pages/dashboard/DashboardPage";
 import DashboardLayout from "./pages/dashboard/DashboardLayout";
 import ProductPage from "./pages/dashboard/ProductPage";
-import CategoryPage from "./pages/dashboard/categoryPage";
 import ReportsPage from "./pages/dashboard/ReportsPage";
 import AnalysisPage from "./pages/dashboard/AnalysisPage";
 import ProfilePage from "./pages/dashboard/ProfilePage";
+import CategoryPage from "./pages/dashboard/CategoryPage";
 
 const router = createBrowserRouter(
   [
